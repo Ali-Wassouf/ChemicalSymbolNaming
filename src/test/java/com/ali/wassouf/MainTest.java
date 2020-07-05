@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 class MainTest {
 
-    Main main = new Main();
+    private Main main = new Main();
 
     @Test
     void init(){
